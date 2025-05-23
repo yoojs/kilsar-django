@@ -1,6 +1,6 @@
 # Kilsar Django REST API
 
-A Django REST API project for task management with environment-specific configurations and containerized deployment.
+A Django REST API project for TODO list with environment-specific configurations and containerized deployment.
 
 ## Features
 - Todo List Management with Priority Ordering
@@ -75,7 +75,7 @@ git clone https://github.com/yoojs/kilsar-django.git
 cd kilsar-django
 ```
 
-2. Set up environment files:
+2. Set up environment files choose one to convert to .env:
 ```bash
 #Development
 cp .env.dev .env
