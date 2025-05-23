@@ -40,7 +40,6 @@ kilsar-django/
 ├── kilsarDjango/           # Main project configuration
 │   ├── celery.py           # Celery configuration
 │   ├── urls.py             # Main URL routing
-│   ├── __pycache__/        # Python bytecode cache
 │   └── settings/           # Environment-specific settings
 │       ├── base.py         # Base settings shared across environments
 │       ├── dev.py          # Development-specific settings
@@ -57,8 +56,6 @@ kilsar-django/
 │   ├── tests.py            # Test suite
 │   ├── urls.py             # URL routing for Todo API
 │   ├── views.py            # API views
-│   └── migrations/         # Database migrations
-│       └── 0001_initial.py # Initial database migration
 ```
 
 ## Quick Start
