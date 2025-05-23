@@ -1,6 +1,6 @@
 # Kilsar Django REST API
 
-A Django REST API project for task management with environment-specific configurations and containerized deployment.
+A Django REST API project for TODO list with environment-specific configurations and containerized deployment.
 
 ## Features
 - Todo List Management with Priority Ordering
