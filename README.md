@@ -75,7 +75,7 @@ git clone https://github.com/yoojs/kilsar-django.git
 cd kilsar-django
 ```
 
-2. Set up environment files:
+2. Set up environment files choose one to convert to .env:
 ```bash
 #Development
 cp .env.dev .env
